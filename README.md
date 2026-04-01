@@ -6,16 +6,6 @@ Read **[ASSIGNMENT.md](./ASSIGNMENT.md)** for the full brief before you start.
 
 ---
 
-## A note on AI tools
-
-You're welcome to use AI tools. What we're evaluating is your ability to read and reason about unfamiliar code — so your submission should reflect your own understanding, not just generated output.
-
-Concretely:
-- For each bug you report: include where in the code it lives and why it happens
-- For the feature you implement: briefly explain the design decisions you made
-- If something surprised you or you had to make a tradeoff, say so
-
----
 
 ## Getting Started
 
